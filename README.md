@@ -1,89 +1,79 @@
-## Hi there 👋 I'm Ismail Nossam!  
+## 👋 Hi there! I'm Ismail Nossam
 
-🎓 **B.Tech Student | AI/ML Enthusiast | Full-Stack Developer**  
+🎓 **B.Tech CSE (AI & ML) Student | AI Enthusiast | MERN Stack Developer | Robotics & Hackathon Explorer**
 
-I'm an ambitious and motivated **Computer Science and Engineering** undergraduate specializing in **Artificial Intelligence and Machine Learning**. With hands-on experience in **Web Development** and AI-based solutions, I am passionate about building innovative and impactful projects.  
-
----
-
-### 📌 **Professional Summary**  
-I bring strong technical skills, a knack for problem-solving, and a love for continuous learning. As a quick learner and an effective team player, I aim to contribute meaningfully to challenging projects while growing in a dynamic environment.  
+I'm a passionate Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in **robotics, web development**, and **AI-powered real-world applications**. From crafting intelligent assistants to developing full-stack apps and competing in hackathons, I thrive on solving impactful problems and pushing boundaries through technology.
 
 ---
 
-### 📚 **Education**  
+### 🧠 Professional Summary
+- Strong foundation in **AI/ML**, **Data Structures and Algorithms**, and **Web Development (MERN Stack)**.
+- Experienced in working with **Generative AI tools**, **LangChain**, and frameworks like **ASP.NET Core MVC**.
+- Built several real-time, user-centric projects using **Python, ReactJS, NodeJS**, and more.
+- Adaptable, quick learner, and enthusiastic about innovation and cross-functional collaboration.
+
+---
+
+### 🎓 Education
 - **Rajeev Gandhi Memorial College of Engineering and Technology** (2022–2026)  
-  - B.Tech in **Computer Science and Engineering (AI & ML)** | CGPA: 7.4  
-  - Location: Nandyal, Andhra Pradesh  
+  B.Tech in **CSE (AI & ML)** | CGPA: 7.4 | Nandyal, Andhra Pradesh
 
 - **Nxtwave Academy** (2022–Present)  
-  - **Industry-Ready Certification** in Full-stack Development with specialization in AI, ML, and Data Science  
+  Industry-Ready Certification in Full-stack Development with AI, ML, and Data Science specialization
 
 ---
 
-### 💻 **Skills**  
-- **Programming:** Python, C, C++, Data Structures and Algorithms  
-- **Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Web Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, SQL, MongoDB, .NET Technologies  
-- **Tools/Technologies:** Jupyter Notebook, GitHub, Power BI, FrameVR, Hugging Face, Voiceflow, Visual Studio Code  
-- **Soft Skills:** Teamwork, Adaptability, Leadership, Time Management, Patience, Communication  
-- **Languages:** English, Hindi, Telugu  
+### 💼 Work Experience
+**.NET Developer Intern** – *Telangana State Technology Services (TSTS)*, Hyderabad  
+📅 Oct–Dec 2024  
+- Built an **Attendance Reporting App** using **ASP.NET Core MVC** and **SQL Server**  
+- Integrated **Generative AI tools** for faster development and automation  
+- Worked in a collaborative team environment to deliver production-ready features
 
 ---
 
-### 🏢 **Work Experience**  
-#### **.NET Developer Intern** | Oct–Dec 2024  
-**Telangana State Technology Services (TSTS)** – Hyderabad, Telangana  
-- Developed an **Attendance Reporting Application** using ASP.NET Core MVC and SQL Server for task allocation and attendance tracking for AT Engineers.  
-- Leveraged **Generative AI tools** to automate and streamline development processes.  
-- Collaborated with a team of three to ensure project success.  
+### 🚀 Projects
+#### 🧠 AI Projects
+- **Generative AI Voice & Text Bot** — Real-time LLM-powered assistant using LangChain & Hugging Face  
+- **Library Virtual Assistant** — Voice-controlled app for book availability using Speech Recognition & TTS  
+- **Medicine Prescription Assistant** — CSV-based tool for medicine alternatives and info
+
+#### 🌐 Web Development
+- **Portfolio Website** | [Live Demo](https://ismailnportfolio.netlify.app)  
+- **Department Website**, **Todo List App**, **Food Munch Clone** using ReactJS, Vite, HTML/CSS
+
+#### ⚡ Hackathon Projects
+- **Unified Student Portal**  
+  MERN app with chatbot, FrameVR integration & job verification using AI  
+- **Event Listing Platform**  
+  ReactJS-based event registration and listing site with clean UI
 
 ---
 
-### 🚀 **Projects**  
-- **Generative AI Models for Real-Time Text and Voice Responses**  
-  - Technologies: LLMs, LangChain, Hugging Face  
-  - Developed AI models for real-time text and voice responses to enhance user interactions.  
-  - [Voice Response](#) | [Text Response](#)  
-
-- **Web Development Projects**  
-  - Technologies: HTML, CSS, JavaScript, ReactJS, Vite, TypeScript  
-  - Designed responsive websites ensuring seamless user experiences.  
-  - [Department Website](#) | [Portfolio](#) | [Todo-List](#) | [Food Munch](#)  
-
-- **Library Virtual Assistant**  
-  - Technologies: Python, Speech Recognition, Text-to-Speech, Pandas  
-  - Built a voice-activated assistant for real-time book availability queries.  
-  - [Project Link](#)  
-
-- **Medicine Prescription Assistant**  
-  - Technologies: Python, CSV File Handling  
-  - Developed an app to provide medicine descriptions and suggest alternatives.  
-  - [Project Link](#)  
+### 🏆 Achievements
+- 🥇 1st Prize — GDG 3-Hour Hackathon (40 teams)  
+- 🥉 3rd Prize — CODEQUEST 24-Hour Hackathon (90 teams)  
+- 🏅 Coding Comp Winner — 1st & 2nd year among 100+ & 180+ participants  
+- 🧠 Patent Filed — Wireless Data Transfer to a Pendrive  
+- 🧩 Lead Roles — IIC Student Coordinator, Event Organizer, Podcast Host
 
 ---
 
-### 🏆 **Achievements & Extracurriculars**  
-- Winner of **3 inter-departmental coding competitions** and awarded prizes for paper and poster presentations.  
-- Patent applied for **wireless data transfer to a pendrive**.  
-- Participant in **Smart India Hackathon** and **CODEQUEST 24-Hour Hackathon**.  
-- Served as **Student Coordinator** in the Institution Innovation Council (IIC).  
-- Active member of departmental clubs and engaged in entrepreneurship sessions and podcasts.  
+### 📜 Certifications
+- **Nxtwave:** Python, ReactJS, NodeJS, SQL, HTML, CSS  
+- **NPTEL:** IoT, Soft Skills  
+- **Coursera:** Google AI Essentials  
+- **Microsoft:** Azure AI Fundamentals
 
 ---
 
-### 📜 **Certifications**  
-- **Nxtwave Academy**: Python, Static & Responsive Web Development, JavaScript, ReactJS, NodeJS, SQL  
-- **NPTEL**: IoT, Soft Skills  
+### 📫 Connect With Me
+- 🌐 [Portfolio](https://ismailnportfolio.netlify.app)  
+- 🔗 [LinkedIn](https://linkedin.com/in/ismail-nossam)  
+- 🐙 [GitHub](https://github.com/ismailnossam01)  
+- 📧 [ismailnossam@gmail.com](mailto:ismailnossam@gmail.com)  
 
 ---
 
-### 📫 **Let's Connect**  
-- **LinkedIn**: [Ismail Nossam](https://linkedin.com/in/ismail-nossam)  
-- **GitHub**: [ismailnossam01](https://github.com/ismailnossam01)  
-- **Email**: [ismailnossam@gmail.com](mailto:ismailnossam@gmail.com)  
-- **Portfolio**: [View My Work](#)  
-
----
-
-**"The future belongs to those who believe in the beauty of their dreams."** Let's innovate and grow together!  
+**“The future belongs to those who believe in the beauty of their dreams.”**  
+Let’s build the future with tech 🚀
